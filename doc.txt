@@ -1,0 +1,18 @@
+Data Types
+
+text = String
+num = integer
+true/false = boolean
+
+
+Oprators
+1.Arithmetic Oprators +,-,*,/
+2.Bitwise Oprators &, |,
+3.logical Oprators
+
+
+conditional statements
+
+1.for
+2.if_else
+3.switch
